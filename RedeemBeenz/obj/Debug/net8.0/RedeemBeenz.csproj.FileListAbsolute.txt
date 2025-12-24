@@ -1,0 +1,14 @@
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/bin/Debug/net8.0/RedeemBeenz
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/bin/Debug/net8.0/RedeemBeenz.deps.json
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/bin/Debug/net8.0/RedeemBeenz.runtimeconfig.json
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/bin/Debug/net8.0/RedeemBeenz.dll
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/bin/Debug/net8.0/RedeemBeenz.pdb
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/obj/Debug/net8.0/RedeemBeenz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/obj/Debug/net8.0/RedeemBeenz.AssemblyInfoInputs.cache
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/obj/Debug/net8.0/RedeemBeenz.AssemblyInfo.cs
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/obj/Debug/net8.0/RedeemBeenz.csproj.CoreCompileInputs.cache
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/obj/Debug/net8.0/RedeemBeenz.dll
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/obj/Debug/net8.0/refint/RedeemBeenz.dll
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/obj/Debug/net8.0/RedeemBeenz.pdb
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/obj/Debug/net8.0/RedeemBeenz.genruntimeconfig.cache
+/Users/elvinbilo/Desktop/kube_demo/RedeemBeenz/RedeemBeenz/obj/Debug/net8.0/ref/RedeemBeenz.dll
