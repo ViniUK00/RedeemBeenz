@@ -33,26 +33,31 @@ The system allows an employee to:
 ---
 
 ## Project Structure
+
+```text
 RedeemBeenz/
 │
-├── Program.cs # Console UI and user interaction
+├── Program.cs                  # Console UI and user interaction
 │
-├── Models/ # Domain models (Reward, Redemption, DeliveryOption, etc.)
-├── Interfaces/ # Component interfaces
-├── Component/ # Core business logic and components
-│ ├── BeenzRewards.cs
-│ ├── AccountStore.cs
-│ ├── Catalogue.cs
-│ └── RedemptionStore.cs
+├── Models/                     # Domain models (Reward, Redemption, DeliveryOption, etc.)
 │
-├── Tests/ # NUnit unit tests
-│ ├── AccountStoreTests.cs
-│ ├── BeenzRewardsTests.cs
-│ ├── CatalogueTests.cs
-│ ├── DeliveryOptionTests.cs
-│ └── RedemptionStoreTests.cs
+├── Interfaces/                 # Component interfaces
+│
+├── Component/                  # Core business logic and components
+│   ├── BeenzRewards.cs
+│   ├── AccountStore.cs
+│   ├── Catalogue.cs
+│   └── RedemptionStore.cs
+│
+├── Tests/                      # NUnit unit tests
+│   ├── AccountStoreTests.cs
+│   ├── BeenzRewardsTests.cs
+│   ├── CatalogueTests.cs
+│   ├── DeliveryOptionTests.cs
+│   └── RedemptionStoreTests.cs
 │
 └── README.md
+
 
 ---
 
